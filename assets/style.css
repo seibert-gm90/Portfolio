@@ -1,0 +1,11 @@
+body {
+    background-color:#ffffff;
+}
+
+.title {
+    color: pink;
+}
+.navBar {
+    float: left;
+    margin-top: 25px;
+}
