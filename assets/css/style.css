@@ -1,5 +1,5 @@
 .aboutMe {
-    padding-top: 130px;
+    padding-top: 50px;
 }
 .title {
     color:#777777;
@@ -20,7 +20,8 @@ p {
 body {
     font-family: Arial, Helvetica, sans-serif;
     color: #777777;
-    background-image: url("../images/concrete_seamless.png")!important;
+    background: url("../images/concrete_seamless.png")!important;
+    height: 500px;
 }
 
 img {
@@ -72,3 +73,43 @@ li {
 p { 
     margin-bottom: 20px;
 }
+
+footer {
+    padding: 30px 0;
+    clear: both;
+    font-size: 12px;
+    color: #ffffff;
+    color: #cccccc;
+    text-align: center;
+    background: #666666;
+    border-top: 8px solid #4aaaa5;
+    height: 50px;
+}
+
+.aboutMe {
+    width: 100%;
+    max-width: 960px;
+    padding: 30px;
+    margin: 0 0 40px;
+    background: #ffffff;
+    border: 1px solid #dddddd;
+}
+
+//*contact page*//
+
+textarea {
+    height: 200px;
+}
+
+h2 {
+    color: #4aaaa5;
+}
+
+contactForm ul {
+    margin-bottom: 20px;
+}
+
+contactForm li {
+    margin-bottom: 10px;
+}
+
